@@ -1,0 +1,15 @@
+.img-fluid{height: 50px;width: 50px;border-radius: 20%;}
+.img03{width: 600px; height: 400px; border-radius: 10%;}
+.h5{color: black; font-weight: 900; font-style: italic; font-size: medium;}
+.h5:hover{background-color: red; border-radius: 50%;}
+
+#h1{font-weight: 600; color: forestgreen;font-style: italic; }
+#p{font-weight: 500; font-size: large; color: honeydew;}
+#col06{float: inline-start}
+aside{width: 200px;
+height: 500px; float:right; background-color: maroon; border: 2px solid ; border: double;
+padding: 18px 22px 9px 22px; border-width: thick; border-color: black;}
+
+
+
+

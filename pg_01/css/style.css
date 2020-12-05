@@ -1,0 +1,22 @@
+*{padding: 0;
+    margin: 0 auto;}
+ 
+    #main01{background-color: black;box-sizing: border-box; display: inline;}
+       
+        
+
+.p02{font-style: italic;font-weight: 700; color: darkred;}   
+        
+
+#nav01{background-color: aqua; width: 900px;height: 100px;}
+#p01{font-style: oblique;font-weight: 500;}
+#img01{height: 500px;}
+#sec{box-sizing: border-box; display: inline;}
+
+#but01{margin-left: 958px;}
+#nav02{margin-left: 600px;}
+.jumbotron{background-color:darkslategray;}
+.display-4{color:darkred; font-style: italic; font-weight: 400;}
+.dropdown{margin-left: 1160px;}
+
+
